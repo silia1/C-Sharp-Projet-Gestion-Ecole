@@ -1,0 +1,28 @@
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.exe
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.deps.json
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.runtimeconfig.json
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.dll
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\Gestion_Ecole.pdb
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.AssemblyReference.cache
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.Form1.resources
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.GenerateResource.cache
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.AssemblyInfoInputs.cache
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.AssemblyInfo.cs
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.CoreCompileInputs.cache
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_.EFF4E967.Up2Date
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.dll
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\refint\Gestion_Ecole.dll
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.pdb
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.genruntimeconfig.cache
+D:\ENSAT\ENSAT_2024-2025\Mes enseignements\C#\Projets\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\ref\Gestion_Ecole.dll
+C:\Users\lenovo\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.Form1.resources
+C:\Users\lenovo\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.GenerateResource.cache
+C:\Users\lenovo\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.dll
+C:\Users\lenovo\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\refint\Gestion_Ecole.dll
+C:\Users\lenovo\Downloads\Gestion_Ecole\Gestion_Ecole\obj\Debug\net8.0-windows\Gestion_Ecole.pdb
